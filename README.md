@@ -1,4 +1,4 @@
 Bootstrap
 =========
 
-Bootstrap Method
+Bootstrap法を各種実装。
